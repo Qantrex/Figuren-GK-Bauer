@@ -132,4 +132,4 @@ public class RectangleController {
             new RectangleController(view);
         });
     }
-}   
+}
