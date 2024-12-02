@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"RectangleController"},{"p":"<Unnamed>","l":"RectangleModel"},{"p":"<Unnamed>","l":"RectangleView"}];updateSearchResults();
